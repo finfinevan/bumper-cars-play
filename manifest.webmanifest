@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "碰碰車大亂鬥",
+  "short_name": "碰碰車",
+  "description": "多人碰碰車對戰：甩尾、衝刺、卸力，把對手撞爛！",
+  "lang": "zh-Hant",
+  "start_url": "./?pwa",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
